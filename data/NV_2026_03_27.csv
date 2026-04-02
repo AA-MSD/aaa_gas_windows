@@ -1,0 +1,13 @@
+id,Gas_Type,Price,Scrape_Date
+Nevada,Regular,$4.94,3/27/2026
+Nevada,Mid,$5.26,3/27/2026
+Nevada,Premium,$5.55,3/27/2026
+Nevada,Diesel,$6.25,3/27/2026
+Reno,Regular,$5.17,3/27/2026
+Reno,Mid,$5.35,3/27/2026
+Reno,Premium,$5.60,3/27/2026
+Reno,Diesel,$6.32,3/27/2026
+Las Vegas,Regular,$4.99,3/27/2026
+Las Vegas,Mid,$5.35,3/27/2026
+Las Vegas,Premium,$5.65,3/27/2026
+Las Vegas,Diesel,$6.34,3/27/2026
