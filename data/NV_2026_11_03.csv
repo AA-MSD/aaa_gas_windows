@@ -1,13 +1,13 @@
 "id","Gas_Type","Price","Scrape_Date"
-"Nevada","Regular","$5.2373",2026-11-03
-"Nevada","Mid","$5.5161",2026-11-03
-"Nevada","Premium","$5.8385",2026-11-03
-"Nevada","Diesel","$6.8207",2026-11-03
-"Reno","Regular","$5.3345",2026-11-03
-"Reno","Mid","$5.5779",2026-11-03
-"Reno","Premium","$5.7939",2026-11-03
-"Reno","Diesel","$6.8632",2026-11-03
-"Las Vegas","Regular","$5.3103",2026-11-03
-"Las Vegas","Mid","$5.6426",2026-11-03
-"Las Vegas","Premium","$5.9742",2026-11-03
-"Las Vegas","Diesel","$6.8465",2026-11-03
+"Nevada","Regular","$5.2197",2026-11-03
+"Nevada","Mid","$5.5337",2026-11-03
+"Nevada","Premium","$5.8367",2026-11-03
+"Nevada","Diesel","$6.8264",2026-11-03
+"Reno","Regular","$5.3292",2026-11-03
+"Reno","Mid","$5.5516",2026-11-03
+"Reno","Premium","$5.7597",2026-11-03
+"Reno","Diesel","$6.8824",2026-11-03
+"Las Vegas","Regular","$5.2934",2026-11-03
+"Las Vegas","Mid","$5.6598",2026-11-03
+"Las Vegas","Premium","$5.9776",2026-11-03
+"Las Vegas","Diesel","$6.8533",2026-11-03
